@@ -1,0 +1,6 @@
+sup {
+  color: var(--color-dark);
+  display: inline-block;
+  font-weight: 700;
+  margin-left: -0.8rem;
+}

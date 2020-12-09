@@ -1,0 +1,14 @@
+.header {
+  font-size: 1.6rem;
+  padding: 2rem 13rem;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  /* total gap of 3rem */
+}
+.header > * {
+  flex: 1;
+}
+.header > *:last-child {
+  flex: 0 0 30%;
+}
